@@ -1,4 +1,4 @@
-![NickArcade](http://www.gameshowgarbage.com/Pictures/Inductions/Nick%20Arcade%20Pic%201.jpg)
+![NickArcade](https://upload.wikimedia.org/wikipedia/en/b/b7/Nickelodeon_Arcade_Logo.jpg)
 
 # NickArcade
 Retro arcade emulator profile manager.
